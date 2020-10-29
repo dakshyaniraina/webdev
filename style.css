@@ -1,0 +1,9 @@
+body{
+    font-family: arial;
+    color:lightgreen;
+}
+#box{
+    background-color: blue;
+    padding:10px;
+    border:10px solid yellow;
+}
